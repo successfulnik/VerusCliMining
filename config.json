@@ -16,12 +16,12 @@
 		"timeout": 150
 	}
 	],
-	"user": "R9UdcpdG7uDQaYgMNtQRqDK1jS4dwUtcQX.004_RedmiNote5",
+	"user": "R9UdcpdG7uDQaYgMNtQRqDK1jS4dwUtcQX.006_SamA8(SM-A530F)",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
-	"api-allow": "192.168.1.33/16",
+	"api-allow": "192.168.1.104/16",
 	"api-bind": "0.0.0.0:5900"
 }
